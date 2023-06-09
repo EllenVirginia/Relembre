@@ -25,7 +25,7 @@ Após o download do arquivo é essencial para que o projeto funcione, o download
   - react-native-screens react-native-safe-area-context
 - Stack Navegation
   - react-native-gesture-handler.
-- 
+
 
 
 
